@@ -1,0 +1,7 @@
+*.onnx
+*.trt
+*.pt
+*.pyc
+data
+*.so
+*.o
