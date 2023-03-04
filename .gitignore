@@ -5,3 +5,5 @@
 data
 *.so
 *.o
+.ipynb_checkpoints
+*.engine
